@@ -1,18 +1,19 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514769/7799/kek.gif?1643514769" width="30"/>Hehe boi</h1>
 
+<h3>Contacts</h3>
 <p align="center">
   <a href="https://discordapp.com/users/293758980738646017">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>  
   </a>
-  |
   <a href="https://www.linkedin.com/in/peiiiajikuh">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>  
   </a>
-  |
   <a href="https://t.me/peiiiajikuh">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>  
   </a>
 </p>
+
+<br/>
 
 <h3>Things I code with</h3>
 <p>
@@ -35,11 +36,15 @@
   <img alt="" src=""/>
 </p>
 
+<br/>
+
 <p align="center">
   <a href="https://github.com/peiiiajikuh">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peiiiajikuh" alt="peiiiajikuh's top langs">
   </a>
 </p>
+
+<br/>
 
 <p align="center">
   <a href="https://github.com/peiiiajikuh">
