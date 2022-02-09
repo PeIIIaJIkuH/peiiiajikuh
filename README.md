@@ -1,6 +1,4 @@
-<h1>
-  <iframe src="https://giphy.com/embed/CaiVJuZGvR8HK" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514769/7799/kek.gif?1643514769" width="30"/>Hehe boi</h1>
 
 <p align="center">
   <a href="https://discordapp.com/users/293758980738646017">
