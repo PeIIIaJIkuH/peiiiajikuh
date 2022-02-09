@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514769/7799/kek.gif?1643514769" width="30"/>Hehe boi</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514496/4845/rickroll.gif?1643514496" width="30"/> Hehe boi</h1>
 
 <h3>Contacts</h3>
 <p align="center">
